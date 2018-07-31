@@ -1,9 +1,9 @@
 # LIGHTDETECTINGBOT
-INTRODUCTION
+## INTRODUCTION
 
 It is a bot that senses the light & follows it. A user can shine a flashlight at its front and it will respond by following the light source. This robot uses a microcontroller for processing the sensor readings and responds by controlling the motors .
 
-Basic Requirements
+## Basic Requirements
 
 The robot has two light detection sensors which are prepared with LDRs (light dependent resistors). The sensitivity of the sensors can be set by using the potentiometer on each sensor circuit. 
 Light follower robot is activated with light. The robot moves as long as it detects the light. 
@@ -17,4 +17,8 @@ Photo resistors, also known as light dependent resistors (LDR), are light sensit
 APPLICATION
 They do not have a specific applications, it is up to you and your imagination to give an application for them. 
 
+## contributors
 
+[Perul Jain](https://github.com/peruljain)
+
+[Nikhil Arora](https://github.com/nikarora1111)
